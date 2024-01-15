@@ -39,11 +39,8 @@ Feel free to contribute to the development of this video-call app. Follow the st
 
 ## License
 
-This project is licensed under the [LICENSE_NAME]. See the LICENSE.md file for details.
+This project is not licensed
 
----
-
-**LICENCE belongs to:** [Your License]
 
 **Created by:**
 - Fuad Alizada
