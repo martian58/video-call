@@ -31,8 +31,3 @@ Welcome to the Django Video-Call App! This application provides a platform for v
 
 This project is not licensed
 
-
-**Created by:**
-- Fuad Alizada
-
-
